@@ -1,0 +1,32 @@
+.button {
+        -fx-pref-width: 100px;
+        -fx-pref-height: 40px;
+
+
+}
+
+#roundBox {
+
+    -fx-border-color: #000000;
+    -fx-border-radius: 5;
+
+
+}
+
+#mainTitle {
+
+    -fx-fill: #4d6483;
+}
+
+#searchButton {
+
+    -fx-pref-width: 100px;
+    -fx-pref-height: 30px;
+    -fx-spacing: 20px;
+
+}
+
+#autoTextField {
+    -fx-control-inner-background: #c1c1c1;
+
+}
